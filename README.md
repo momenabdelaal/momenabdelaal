@@ -103,12 +103,6 @@
 - Real-time weather updates
 - Location-based services
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=momenabdelaal&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=0EA5E9&icon_color=3B82F6" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=momenabdelaal&theme=react&hide_border=true&bg_color=0D1117&title_color=0EA5E9&layout=compact" alt="Top Languages"/>
-</div>
 
 ## 🌐 Connect With Me
 
