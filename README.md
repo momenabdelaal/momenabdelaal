@@ -6,24 +6,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=momenabdelaal&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=0EA5E9&sideNums=0EA5E9&currStreakNum=0EA5E9&ring=3B82F6&currStreakLabel=3B82F6&sideLabels=3B82F6" alt="GitHub Streak"/>
-</div>
-
-## 🎯 Expertise
-
-```typescript
-const momen = {
-    role: "Senior Mobile Engineer",
-    code: ["Flutter", "Kotlin", "Swift", "Java"],
-    architecture: ["Clean Architecture", "MVVM", "MVI", "VIPER", "BLoC"],
-    expertise: {
-        mobile: ["Cross-platform", "Native iOS", "Native Android"],
-        patterns: ["Clean Architecture", "SOLID Principles"],
-        tools: ["Biometric Auth", "Payment Gateways", "Google Maps", "Real-time Updates", "FCM", "Zoom SDK"]
-    }
-};
-```
 
 ## 💻 Tech Stack
 
