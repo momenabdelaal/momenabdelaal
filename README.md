@@ -108,17 +108,9 @@
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0EA5E9)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0EA5E9)](https://www.linkedin.com/in/moamen-abdalaal-750813123)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0EA5E9)](https://momenabdelaal.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0EA5E9)](https://github.com/momenabdelaal)
-
-</div>
-
----
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=momenabdelaal&color=0EA5E9&style=for-the-badge)
 
 </div>
 
