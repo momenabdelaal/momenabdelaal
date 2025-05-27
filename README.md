@@ -11,11 +11,17 @@
 
 <div align="center">
 
+
 ### Mobile Development
 [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white&labelColor=0EA5E9)](https://flutter.dev)
 [![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0EA5E9)](https://kotlinlang.org)
 [![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white&labelColor=0EA5E9)](https://developer.apple.com/swift/)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white&labelColor=0EA5E9)](https://www.java.com)
+
+### UI Development
+[![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4.svg?style=for-the-badge&logo=jetpack-compose&logoColor=white&labelColor=0EA5E9)](https://developer.android.com/jetpack/compose)
+[![XML](https://img.shields.io/badge/XML%20Layouts-E34F26.svg?style=for-the-badge&logo=android&logoColor=white&labelColor=0EA5E9)](https://developer.android.com/guide/topics/ui/declaring-layout)
+
 
 ### Development Tools & Technologies
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=0EA5E9)](https://developer.android.com/studio)
