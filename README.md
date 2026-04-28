@@ -126,7 +126,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 [![Download CV](https://img.shields.io/badge/Download-CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://momenabdelaal.github.io/assets/Moamen-Abdelaal-Senior-Mobile-Developer.pdf)
 
 **📧 Email**: bibomomen@gmail.com  
-**📱 Phone**: +201093860082  
 **🌐 Portfolio**: [momenabdelaal.github.io](https://momenabdelaal.github.io/)
 
 </div>
@@ -138,7 +137,5 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 ### ⭐ If you find my work interesting, feel free to star my repositories!
 
 **Made with ❤️ by Moamen Abdelaal**
-
-![Profile Views](https://komarev.com/ghpvc/?username=momenabdelaal&color=0ea5e9&style=flat-square&label=Profile+Views)
 
 </div>
