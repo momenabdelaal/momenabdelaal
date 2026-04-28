@@ -77,7 +77,7 @@ With over **8 years of expertise** in high-performance mobile application develo
 I specialize in building **production-ready mobile applications** across all major platforms. My portfolio includes **20+ published applications** serving thousands of active users, with a proven track record of maintaining **95% crash-free rates** and delivering exceptional user experiences.
 
 **Key Areas:**
-- **Native Android Development**: Enterprise-grade applications using Kotlin/Java with modern architectures (MVVM, MVI, Clean Architecture)
+- **Native Android Development**: Enterprise-grade applications using Kotlin/Java with Jetpack Compose and modern architectures (MVVM, MVI, Clean Architecture)
 - **Native iOS Development**: High-performance iOS applications built with Swift and SwiftUI, following Apple's best practices
 - **Cross-Platform Solutions**: Flutter applications that deliver native performance across multiple platforms
 
@@ -103,7 +103,7 @@ Proficient in extending platform capabilities through **custom plugins and nativ
 - **Design Patterns**: MVVM, MVI, Repository Pattern, Dependency Injection
 - **Code Quality**: Unit testing, integration testing, code reviews, and documentation
 - **Performance**: Memory optimization, battery efficiency, and smooth UI rendering
-- **Security**: Secure data storage, encryption, and authentication implementation
+- **Security**: Secure data storage, encryption, TLS/SSL implementation, and authentication
 
 ---
 ## 🎓 Education
