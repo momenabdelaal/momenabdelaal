@@ -119,12 +119,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moamen-abdalaal-750813123/)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibomomen@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201093860082)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://momenabdelaal.github.io/)
-[![Download CV](https://img.shields.io/badge/Download-CV-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://momenabdelaal.github.io/assets/Moamen-Abdelaal-Senior-Mobile-Developer.pdf)
-
 **📧 Email**: bibomomen@gmail.com  
 **🌐 Portfolio**: [momenabdelaal.github.io](https://momenabdelaal.github.io/)
 
