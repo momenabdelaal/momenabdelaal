@@ -106,21 +106,6 @@ Proficient in extending platform capabilities through **custom plugins and nativ
 - **Security**: Secure data storage, encryption, and authentication implementation
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=momenabdelaal&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=momenabdelaal&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=0ea5e9&text_color=ffffff)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=momenabdelaal&theme=radical&hide_border=true&background=0D1117&stroke=0ea5e9&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)
-
-</div>
-
----
-
 ## 🎓 Education
 
 **Higher Institute of Information Technology**  
